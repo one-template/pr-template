@@ -51,3 +51,5 @@ Describe changes from the user side, and list all potential break changes or oth
 - [ ] 代码演示已提供或无须提供 / Demo is updated/provided or not needed
 - [ ] TypeScript 定义已补充或无须补充 / TypeScript definition is updated/provided or not needed
 - [ ] Changelog 已提供或无须提供 / Changelog is provided or not needed
+
+<!-- From: https://github.com/one-template/pr-template -->
